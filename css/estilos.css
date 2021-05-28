@@ -37,3 +37,16 @@ body
 #conainer h1{
     font-size: 20px;
 }
+
+#post
+{
+    padding: 1em;
+}
+
+#footer 
+{
+    background: #7777;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
+}
