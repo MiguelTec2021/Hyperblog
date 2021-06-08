@@ -57,3 +57,7 @@ body
     text-align: center;
     padding: 00.5em;
 }
+
+img{
+    width: 100px;
+}
