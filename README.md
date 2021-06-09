@@ -8,8 +8,9 @@ Un blog  increible para el curso de Git y Github de Platzi
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
-* Trucos muy locos del profesor
+* Trucos muy locos del pro fesor
 * Las personalidades múltiples de Freddy
 * Creado por el increible Team 
+* Incluye ejemplos en windws
 
 y como un amable recordatorio: **Este readme.md es un chiste**. Diseño para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve el curso  
